@@ -1,0 +1,22 @@
+{
+  "name": "rose/rose",
+  "description": "Factions",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "xoapp",
+      "email": "xoapp@hornymilf.com"
+    }
+  ],
+  "require": {
+    "pocketmine/pocketmine-mp": "^5.23.1",
+    "ext-mysqli": "*",
+    "ext-sqlite3": "*"
+  },
+  "require-dev": {
+    "cooldogedev/libsql": "dev-pm5",
+    "paroxity/commando": "dev-master",
+    "dktapps/pmforms": "dev-master"
+  }
+}

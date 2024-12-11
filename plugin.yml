@@ -1,0 +1,7 @@
+name: Rose
+main: rose\Rose
+api: 5.0.0
+version: 1.0.0
+authors:
+  - Xoapp
+  - AmmyRQ

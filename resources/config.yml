@@ -1,0 +1,16 @@
+database:
+  # Don't Touch This Part
+  provider: sqlite # providers = mysql, sqlite
+  threads: 2
+
+  # SQLite Configuration
+  sqlite:
+    path: "database/sqlite.db"
+
+  # MySQL Configuration
+  mysql:
+    host: 127.0.0.1
+    username: root
+    password: ""
+    database: rose
+    port: 3306
